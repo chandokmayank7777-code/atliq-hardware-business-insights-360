@@ -26,6 +26,7 @@ This project simulates a real-world enterprise Business Intelligence solution fo
 📁 **Dashboard Views & Insights** 
 
 📊 Power BI Dashboard – Views & Insights
+
 🏠 1. Home View
 
 Central navigation landing page designed for smooth report browsing.
