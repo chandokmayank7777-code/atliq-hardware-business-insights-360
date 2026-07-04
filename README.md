@@ -25,9 +25,9 @@ This project simulates a real-world enterprise Business Intelligence solution fo
 
 ---
 
-📁 **Dashboard Views & Insights** 
+## 📁 **Dashboard Views & Insights** 
 
-## 🏠 Home View
+ 🏠 Home View
 
 **Purpose:**  
 Serve as the central navigation page for accessing all dashboard modules.
@@ -38,7 +38,7 @@ Serve as the central navigation page for accessing all dashboard modules.
 - Quick access to Info and Support pages
 - Clean and user-friendly landing interface
  ---
-## 💰 Finance View
+💰 Finance View
 
 **Purpose:**  
 Analyze the organization's overall financial performance, profitability, and year-over-year business growth.
@@ -59,7 +59,7 @@ Analyze the organization's overall financial performance, profitability, and yea
 
 ---
 
-## 📈 Sales View
+ 📈 Sales View
 
 **Purpose:**  
 Evaluate customer and product performance to understand revenue contribution and sales efficiency.
@@ -80,7 +80,7 @@ Evaluate customer and product performance to understand revenue contribution and
 
 ---
 
-## 📢 Marketing View
+ 📢 Marketing View
 
 **Purpose:**  
 Analyze profitability, product performance, and market performance across business segments.
@@ -101,7 +101,7 @@ Analyze profitability, product performance, and market performance across busine
 
 ---
 
-## 🚚 Supply Chain View
+ 🚚 Supply Chain View
 
 **Purpose:**  
 Monitor forecasting performance, demand planning accuracy, and supply chain efficiency.
@@ -121,7 +121,7 @@ Monitor forecasting performance, demand planning accuracy, and supply chain effi
 
 ---
 
-## 🧑‍💼 Executive View
+ 🧑‍💼 Executive View
 
 **Purpose:**  
 Provide a consolidated business overview for executives and decision-makers.
@@ -143,7 +143,7 @@ Provide a consolidated business overview for executives and decision-makers.
 - Supports strategic decision-making through high-level business insights.
 ---
 
-## ℹ️ 7. Info View
+ ℹ️ 7. Info View
 
 Provides a complete overview of the dashboard structure and available business domains.
 
@@ -153,7 +153,7 @@ Provides a complete overview of the dashboard structure and available business d
 - Summary of KPIs and analytical capabilities
 - Helps users understand the report flow before exploring individual dashboards
 ---
-## 🛠️ 8. Support View
+ 🛠️ 8. Support View
 
 Dedicated support page for users and contributors.
 
@@ -165,7 +165,7 @@ Dedicated support page for users and contributors.
 - Easy access to learning materials and project support
 
 ---
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
 * Power BI Desktop
 * SQL (MySQL)
