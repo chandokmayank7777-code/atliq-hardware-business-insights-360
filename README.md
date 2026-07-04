@@ -231,4 +231,13 @@ Inspired by the **Codebasics Power BI Course**.
 Special thanks to **Dhaval Patel**, **Hemanand Vadivel**, and the Codebasics team for their guidance.
 
 ---
+🔖 Tags
 
+#PowerBI  #BusinessInsights360
+ #BusinessIntelligence
+ #DataAnalytics
+ #DashboardDesign
+ #DataVisualization
+ #DAX
+ #PowerQuery
+ #SQL
