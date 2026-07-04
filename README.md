@@ -4,7 +4,9 @@
 
 ## 🌐 Live Demo
 
-* Power BI Service:https://app.powerbi.com/view?r=eyJrIjoiZTg1MGNlZmMtYTY0NC00YmVlLTkwMjAtM2MzMTc2NDUxMDRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+*Power BI Service*:https://app.powerbi.com/view?r=eyJrIjoiZTg1MGNlZmMtYTY0NC00YmVlLTkwMjAtM2MzMTc2NDUxMDRkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+*PBIX file* :https://drive.google.com/file/d/1NerZm570ze7CBtZKJgKC9btkT_L6_HYA/view?usp=drive_link
 
 ---
 
