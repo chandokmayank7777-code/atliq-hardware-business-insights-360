@@ -25,11 +25,17 @@ This project simulates a real-world enterprise Business Intelligence solution fo
 
 📁 **Dashboard Views & Insights** 
 
-📊 Power BI Dashboard – Views & Insights
+## 🏠 Home View
 
-🏠 1. Home View
+**Purpose:**  
+Serve as the central navigation page for accessing all dashboard modules.
 
-Landing page for navigating all business views using bookmarks and interactive buttons. Includes report overview, navigation menu, and quick access to Info & Support pages.
+**Features:**
+- Interactive navigation buttons for all dashboard views
+- Bookmark-based report navigation
+- Quick access to Info and Support pages
+- Clean and user-friendly landing interface
+ ---
 ## 💰 Finance View
 
 **Purpose:**  
@@ -80,7 +86,7 @@ Analyze profitability, product performance, and market performance across busine
 ### 📊 Visuals Used
 - Scatter Chart (Gross Margin % vs Net Sales)
 - Waterfall Chart (Gross Margin → Operating Expense → Net Profit)
-- Donut Chart (Gross Margin vs Total COGS)
+- Unit Economics (Donut Chart)
 - Product Performance Matrix
 - Regional Performance Matrix
 
@@ -122,7 +128,7 @@ Provide a consolidated business overview for executives and decision-makers.
 - Executive KPI Cards
 - Revenue by Division
 - Revenue by Channel
-- Revenue & Market Share Trend
+- Multi-Year Revenue, Gross Margin, Net Profit & Market Share Trend
 - Top Customers by Revenue
 - Top Products by Revenue
 - Regional Performance Matrix
