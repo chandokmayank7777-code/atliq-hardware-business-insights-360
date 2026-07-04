@@ -110,6 +110,28 @@ Retail segment contributed ~70.5% revenue
 P&A division contributed ~49.9% share
 Despite losses, market share grew to ~6% by 2022
 
+ℹ️ 7. Info View
+
+Provides a complete overview of the dashboard structure and available business domains.
+
+**Features:**
+- Introduction to the Business Insights 360 dashboard
+- Overview of Finance, Sales, Marketing, Supply Chain, and Executive modules
+- Summary of KPIs and analytical capabilities
+- Helps users understand the report flow before exploring individual dashboards
+
+🛠️ 8. Support View
+
+Dedicated support page for users and contributors.
+
+**Features:**
+- Dashboard author and contact information
+- LinkedIn and GitHub portfolio links
+- Email for feedback, suggestions, and collaboration
+- Microsoft Learn Power BI resources for beginners
+- Easy access to learning materials and project support
+
+---
 # 🛠 Tech Stack
 
 * Power BI Desktop
