@@ -143,7 +143,7 @@ Provide a consolidated business overview for executives and decision-makers.
 - Supports strategic decision-making through high-level business insights.
 ---
 
-ℹ️ 7. *Info View*
+## ℹ️ 7. Info View
 
 Provides a complete overview of the dashboard structure and available business domains.
 
@@ -153,7 +153,7 @@ Provides a complete overview of the dashboard structure and available business d
 - Summary of KPIs and analytical capabilities
 - Helps users understand the report flow before exploring individual dashboards
 ---
-🛠️ 8. *Support View*
+## 🛠️ 8. Support View
 
 Dedicated support page for users and contributors.
 
