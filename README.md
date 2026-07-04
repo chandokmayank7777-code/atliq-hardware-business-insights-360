@@ -29,88 +29,113 @@ This project simulates a real-world enterprise Business Intelligence solution fo
 
 🏠 1. Home View
 
-Central navigation landing page designed for smooth report browsing.
-Features:
-Section-wise navigation buttons for each dashboard (Finance, Sales, Marketing, Supply Chain, Executive)
-Bookmark-based Info & Support tabs
-Dataset overview + schema explanation for better user understanding
+Landing page for navigating all business views using bookmarks and interactive buttons. Includes report overview, navigation menu, and quick access to Info & Support pages.
+## 💰 Finance View
 
-💰 2. Finance View
+**Purpose:**  
+Analyze the organization's overall financial performance, profitability, and year-over-year business growth.
 
-Focus: Overall financial performance, profitability, and P&L analysis
-Visuals Used:
-KPI Cards (Net Sales, Gross Margin %, Net Profit %)
-→ With conditional formatting vs Target & LY
-Full P&L Matrix (Current Year, LY, Target, % Change)
-Top/Bottom Products & Customers (Profitability view)
-Area Chart for trend analysis over time
+### 📊 Visuals Used
+- KPI Cards (Net Sales, Gross Margin %, Net Profit %)
+- Profit & Loss (P&L) Statement Matrix
+- Net Sales Trend (Line Chart)
+- Top & Bottom Products and Customers
+- Regional Profitability Summary
 
-Key Insights:
-Net Sales grew strongly (~140%–354%) from 2019 to 2022
-Despite revenue growth, Net Profit turned negative after 2019
-Reason: rising OpEx due to aggressive expansion strategy
+### 🔍 Key Insights
+- Evaluates overall financial performance using key profitability metrics.
+- Tracks Net Sales, Gross Margin, and Net Profit across multiple years.
+- Compares actual performance with previous years for trend analysis.
+- Identifies profitability drivers through a detailed P&L statement.
+- Highlights top-performing and underperforming products and customers.
 
-📈 3. Sales View
+---
 
-Focus: Customer behavior, product performance, and revenue breakdown
-Visuals Used:
-Scatter Chart: Net Sales vs Gross Margin % (toggle-enabled)
-Donut Charts:
-Net Sales share
-Gross Margin distribution
-COGS & deduction breakdown
-Matrix: Customer & Product-level performance
+## 📈 Sales View
 
-Key Insights:
-Notebook category led sales with 42.5% share (2022)
-Amazon was top customer with ~$496.88M Net Sales
-Relief segment showed relatively better Gross Margin efficiency
+**Purpose:**  
+Evaluate customer and product performance to understand revenue contribution and sales efficiency.
 
-📢 4. Marketing View
+### 📊 Visuals Used
+- Customer Performance Matrix
+- Product Performance Matrix
+- Scatter Chart (Net Sales vs Gross Margin %)
+- Donut Charts for Unit Economics
+- Interactive Performance Matrix
 
-Focus: Profitability vs marketing performance across segments
-Visuals Used
-Scatter Chart: GM% / NP% vs Net Sales (toggle switch)
-Waterfall Chart: GM → OpEx → Net Profit flow
-Pie Chart: GM% vs COGS contribution
-Matrix: Segment & Market-wise performance
+### 🔍 Key Insights
+- Identifies high-value customers based on Net Sales and Gross Margin.
+- Highlights top-performing product categories and business segments.
+- Compares customer profitability across different regions.
+- Supports data-driven decisions through interactive performance analysis.
+- Provides detailed customer and product-level sales insights.
 
-Key Insights:
+---
 
-All regions showed negative profitability in 2022
-Main reason: Operational Expenses > Gross Margin
-Marketing spend efficiency needs optimization
+## 📢 Marketing View
 
-🚚 5. Supply Chain View
+**Purpose:**  
+Analyze profitability, product performance, and market performance across business segments.
 
-Focus: Forecast accuracy & demand planning performance
-Visuals Used:
-KPI Cards:
-Forecast Accuracy %
-Net Error
-Absolute Error
-Matrix: Customer & Product-wise forecast analysis
-Line/Column Charts for trend tracking
+### 📊 Visuals Used
+- Scatter Chart (Gross Margin % vs Net Sales)
+- Waterfall Chart (Gross Margin → Operating Expense → Net Profit)
+- Donut Chart (Gross Margin vs Total COGS)
+- Product Performance Matrix
+- Regional Performance Matrix
 
-Key Insights:
-Dec 2021 recorded highest forecast deviation
-FY2021 had highest absolute error (~$10M)
-Forecast accuracy stabilized around 81.5%
+### 🔍 Key Insights
+- Evaluates profitability across different product segments and markets.
+- Identifies the impact of operating expenses on overall profitability.
+- Compares Gross Margin against Total Cost of Goods Sold (COGS).
+- Highlights regional and product-level performance variations.
+- Supports profitability optimization using unit economics analysis.
 
-🧑‍💼 6. Executive View
+---
 
-Focus: High-level business overview for leadership
-Visuals Used:
-KPI Cards with growth indicators
-Multi-year trend charts (line, column, ribbon, area)
-Sub-region performance breakdown
-Top/Bottom customers & products matrix
-Key Insights:
-Retail segment contributed ~70.5% revenue
-P&A division contributed ~49.9% share
-Despite losses, market share grew to ~6% by 2022
+## 🚚 Supply Chain View
 
-ℹ️ 7. Info View
+**Purpose:**  
+Monitor forecasting performance, demand planning accuracy, and supply chain efficiency.
+
+### 📊 Visuals Used
+- KPI Cards (Forecast Accuracy, Net Error, Absolute Error)
+- Forecast Accuracy Trend Chart
+- Customer Forecast Performance Matrix
+- Product Forecast Performance Matrix
+
+### 🔍 Key Insights
+- Tracks Forecast Accuracy across customers and product categories.
+- Monitors Net Error and Absolute Error for demand planning.
+- Identifies forecasting trends over different time periods.
+- Helps improve inventory planning and operational efficiency.
+- Enables better supply chain decision-making through forecast analysis.
+
+---
+
+## 🧑‍💼 Executive View
+
+**Purpose:**  
+Provide a consolidated business overview for executives and decision-makers.
+
+### 📊 Visuals Used
+- Executive KPI Cards
+- Revenue by Division
+- Revenue by Channel
+- Revenue & Market Share Trend
+- Top Customers by Revenue
+- Top Products by Revenue
+- Regional Performance Matrix
+
+### 🔍 Key Insights
+- Presents an executive-level summary of overall business performance.
+- Compares revenue contribution across divisions and sales channels.
+- Tracks Revenue, Gross Margin, Net Profit, and Market Share trends.
+- Highlights top-performing customers, products, and business regions.
+- Supports strategic decision-making through high-level business insights.
+---
+
+ℹ️ 7. *Info View*
 
 Provides a complete overview of the dashboard structure and available business domains.
 
@@ -119,8 +144,8 @@ Provides a complete overview of the dashboard structure and available business d
 - Overview of Finance, Sales, Marketing, Supply Chain, and Executive modules
 - Summary of KPIs and analytical capabilities
 - Helps users understand the report flow before exploring individual dashboards
-
-🛠️ 8. Support View
+---
+🛠️ 8. *Support View*
 
 Dedicated support page for users and contributors.
 
